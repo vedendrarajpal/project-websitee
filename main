@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practic</title>
+</head>
+<link rel="stylesheet" href="st.css">
+
+<body>
+     <div class="logo"> 
+        <img src="travels.png" alt="error">
+ 
+    </div> 
+
+
+    <div class="middle">
+
+        <ul class="navbar">
+            <li><a href="#" class="abc">Home</a></li>
+            <li><a href="about_uss.html" class="abc">About us</a></li>
+            <li><a href="#" class="abc">Travel</a></li>
+            <li><a href="#" class="abc">Contact us</a></li>
+        </ul>
+                </div>
+                <div class="right">
+                <!-- right box -->
+               
+                <button class="but">call us now</button>
+                <button class="but"><a href = "mailto: vedendrarajpal17@gmail.com">Send Email</a></button>
+               
+                <!-- </div>
+                <div class="car">
+                  
+
+                    <div class="animation-container">
+                        <img src="https://gifdb.com/images/high/beep-beep-car-running-sbwx91jybevbfuvc.gif" alt="Moving Image" class="moving-image">
+                    </div> -->
+
+                   
+
+
+                </div>
+           
+            <div class="choose">
+
+               
+
+                <h2>CHOOSE YOUR BUDGET</h2>
+            </div>
+
+<div class="centre">
+    <div class="mid1">
+    <!-- <h2>choose your budget   </h2> -->
+    </div>
+  
+    
+
+
+    <div class="main">
+
+
+    <div class="left"><a href="#" class="an">Low</a></div>
+    <div class="mid"><a href="#" class="an">Medium</a></div>
+    <div class="ri"><a href="#" class="an">High</a></div>
+
+
+</div>
+
+</div>
+
+<div class="choo2">
+    <h2 class="hea">TOURIST PLACES</h2>
+               
+<div>
+    <a href="https://www.google.com/maps/@26.9072203,75.7952836,15z?entry=ttu"><img src="location-removebg-preview.png" alt="error" class="location"></a>
+    
+</div>
+</div>
+
+<div class="boss">
+
+<div class="relative">
+    <img src="Amer-Fort1d.jpg" class="am1" alt="error">
+
+    <div class="absolute">
+        
+        <p><a href="#"><strong>AMER FORT</strong></a> originally built by Raja Man Singh. Jai Singh I expanded it in the early 1600's.  Improvements and additions were made by successive rulers over the next 150 years, until the Kachwahas shifted their capital to Jaipur.</p>
+    </div>
+</div>
+
+
+<div class="relative">
+    <img src="Jaigarh-Fort_2d.JPG" class="am1" alt="error">
+
+    <div class="absolute">
+        <p><a href="#"><strong>JAIGARH FORT</strong></a> Jaigarh Fort is situated on the promontory called the Cheel ka Teela (Hill of Eagles) of the Aravalli range; it overlooks the Amer Fort and the Maota Lake,</p>
+    </div>
+</div>
+
+<div class="relative">
+    <img src="City_Pa0lace_3d.jpg" class="am1" alt="error">
+
+    <div class="absolute">
+        <p><a href="#"><strong>CITY PALACE</strong></a> Jaigarh Fort is situated on the promontory called the Cheel ka Teela (Hill of Eagles) of the Aravalli range; it overlooks the Amer Fort and the Maota Lake,</p>
+    </div>
+</div>
+
+
+
+</div>
+
+
+<div class="boss">
+
+    <div class="relative">
+        <img src="Jantar_Mantar_4d.jpg" class="am1" alt="error">
+    
+        <div class="absolute">
+            <p><a href="#"><strong>JANTAR MANTAR</strong></a> The Jantar Mantar, Jaipur is a collection of 19 astronomical instruments built by the Rajput king Sawai Jai Singh, the founder of Jaipur, Rajasthan. It features the world's largest stone sundial, and is a UNESCO World Heritage Site</p>
+        </div>
+    </div>
+    
+    
+    <div class="relative">
+        <img src="Nahargarh_1.jpg" class="am1" alt="error">
+    
+        <div class="absolute">
+            <p><a href="#"><strong>NAHARGARH FORT</strong></a> Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur in the Indian state of Rajasthan. Along with Amer Fort and Jaigarh Fort, Nahargarh once formed a strong defence ring for the city.</p>
+                </div>
+    </div>
+    
+    <div class="relative">
+        <img src="havamahal.jpg" class="am1" alt="error">
+    
+        <div class="absolute">
+            <p><a href="#"><strong>HAVA MAHAL</strong></a> The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jhunjhunu in the state of Rajasthan.</p> 
+        </div>
+    </div>
+    
+    
+    
+    </div>
+
+
+    <div class="boss">
+
+        <div class="relative">
+            <img src="jal-mahal-jaipur.jpg" class="am1" alt="error">
+        
+            <div class="absolute">
+                <p><a href="#"><strong>JAL MAHAL</strong></a> The palace was originally constructed around 1699; the building and the lake around it were later renovated and enlarged in the early 18th century by Maharaja Jai Singh II of Amber.</p>
+            </div>
+        </div>
+        
+        
+       
+        <div class="trymore"><a href="#">see more places in jaipur</a></div>
+        
+        
+        
+        
+        </div>
+
+
+<section class="about-us">
+    <h2>About Us</h2>
+    <p>Welcome to Travel Experts Fort visitor! We are a team of passionate travelers who love to explore the world and share our experiences with you. Our mission is to provide you with the best travel tips, recommendations, and resources to make your travel adventures unforgettable in our suatiable price. Whether you're a seasoned traveler or planning your first trip, we're here to inspire and assist you on your journey with our best service.</p>
+</section>
+
+</body>
+</html>
